@@ -1,1 +1,1 @@
-# shake_game
+# snake game
